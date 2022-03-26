@@ -1,0 +1,209 @@
+.header{
+    background-color: black;
+    width: 100%;
+    height: 107px;
+}
+body{
+    margin: 0%;
+    background-color: black;
+}
+.logo{
+    padding-left: 90px;
+    padding-top: 23px;
+}.logo2{
+    padding-left: 55px;
+    padding-bottom: 4px;
+}.para{
+    color: #fff;
+    position: absolute;
+    top: 52px;
+    left: 422px;
+    cursor: pointer;
+}.para2{
+    color: #fff;
+    position: absolute;
+    top: 52px;
+    left: 520px;
+    cursor: pointer;
+}
+.para3{
+    color: #fff;
+    position: absolute;
+    top: 52px;
+    left: 613px;
+    cursor: pointer;
+}
+.para4{
+    color: #fff;
+    position: absolute;
+    top: 52px;
+    left: 727px;
+    cursor: pointer;
+}
+.para5{
+    color: #fff;
+    position: absolute;
+    top: 52px;
+    left: 898px;
+    cursor: pointer;
+}
+.para6{
+    color: #fff;
+    position: absolute;
+    top: 52px;
+    left: 983px;
+    cursor: pointer;
+}
+.para7{
+    color: #fff;
+    position: absolute;
+    top: 52px;
+    left: 1070px;
+    cursor: pointer;
+}
+.privacy{
+    color: #fff;  
+    position: absolute;
+    top: 8px;
+    left: 891px;
+    text-decoration: none;
+    font-size: 17px;
+
+
+
+}
+.para8{
+    color: #fff;
+    position: absolute;
+    top: -8px;
+    left: 1124px;
+    font-size: 17px;
+    cursor: pointer;
+}.slideshow-container{
+    width: 100%;
+    position: relative;
+    margin: auto;
+    background-color: black;
+
+}.search{
+    position: absolute;
+    top: 674px;
+    left: 47px;
+    width: 1156px;
+    height: 33px;
+
+}.back{
+    background-color: black;
+    width: 100%;
+    height: 800px;
+}
+.slogan{
+    font-size: 35px;
+    text-align: center;
+    color: #fff;
+    padding-top: 165px;
+    
+}
+.slogan1{
+    text-align: center;
+    color: #fff;
+
+    
+}.slogan2{
+    text-align: center;
+    color: #fff;
+
+}.butt{
+    background: #00adef;
+    color: #fff;
+    height: 33px;
+    position: absolute;
+    top: 1100px;
+    left: 507px;
+    border-style: none;
+    width: 250px;
+    font-weight: bold;
+    cursor: pointer;
+
+}.imu1{
+    width: 250px;
+    position: absolute;
+    top: 1210px;
+    left: 200px;
+    
+}.imu2{
+    width: 250px;
+    position: absolute;
+    top: 1210px;
+    left: 500px;
+}.imu3{
+    width: 250px;
+    position: absolute;
+    top: 1210px;
+    left: 800px;
+}.imu4{
+    position: absolute;
+    top: 257px;
+    left: 5px;
+    width: 20px;
+   
+}.imu5{
+    position: absolute;
+    top: 257px;
+    right: 5px;
+    width: 20px;
+}
+.show{
+    background: #20343b;
+    color: rgb(165, 160, 160);
+    height: 33px;
+    position: absolute;
+    top: 1400px;
+    left: 560px;
+    border-style: none;
+    width: 150px;
+    font-weight: bold;
+    cursor: pointer;
+
+}.footer{
+    width: 100%;
+    height: 300px;
+}table{
+    color: #fff;
+    width: 90%;
+    padding-left: 75px;
+}.theadd{
+
+    font-size: xx-large;
+}.tablebody{
+    color: rgb(111, 117, 117);
+}.new{
+    position: absolute;
+    top: 120px;
+    left: 50px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: lighter;
+}.para:hover{
+    color: #00adef;
+}.para2:hover{
+    color: #00adef;
+}.para3:hover{
+    color: #00adef;
+}.para4:hover{
+    color: #00adef;
+}.para5:hover{
+    color: #00adef;
+}.para6:hover{
+    color: #00adef;
+}.para7:hover{
+    color: #00adef;
+}.para8:hover{
+    color: #00adef;
+}.privacy:hover{
+    color: #00adef;
+}.butt:hover{
+    background-color:#2b78bf ;
+}.show:hover{
+    color: #fff;
+}
